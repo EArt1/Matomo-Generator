@@ -1,4 +1,4 @@
-package generator.Matomo.Matomo.Generator
+package generator.matomo.matomo.generator
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
